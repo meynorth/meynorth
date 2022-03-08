@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meynorth
+- 👋 Hi, I’m Tugce
 - 👀 I’m interested in creating fun things :P
 - 🌱 I’m currently a CompSci major 
 
